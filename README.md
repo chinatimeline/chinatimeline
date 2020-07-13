@@ -46,5 +46,6 @@ Here are some ideas to get you started:
 3. 电邮 <chinatimeline@protonmail.com>
 
 ## 其它类似项目
-1. 端点星 https://github.com/terminus2049/terminus2049.github.io
-2. duty-machine https://github.com/duty-machine/duty-machine 
+1. 端点星 https://github.com/terminus2049/
+2. Duty-Machine https://github.com/duty-machine/
+3. Lest We Forget https://github.com/lestweforget
