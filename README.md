@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 ## 参与方式
 
-### 提交内容
+### 1 提交内容
 您无需注册，可匿名在[时代透镜](https://chinatimeline.github.io)的某个时间线主题页面内(例如[意识形态保卫战](https://chinatimeline.github.io/ideology_tl1/))填表，或用[在线RSS阅读器](https://chinatimeline.github.io/news/)的提交按钮提交新闻事件，表单系统会自动向项目仓库提交一个事件文件 `/_data/comments/entryXXXXX.yml`。通过人工或定期的后台程序将新提交的事件添加到本项目的[数据仓库](https://github.com/chinatimeline/data/)以及相应的时间线可视化互动图中。
 
-### 反馈和讨论
+### 2 反馈和讨论
 1. [Github Issues](https://github.com/chinatimeline/chinatimeline.github.io/issues)
 2. [可匿名注册的论坛版块](https://be4.herokuapp.com/category/10/)
 3. 电邮 <chinatimeline@protonmail.com>
