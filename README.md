@@ -45,16 +45,6 @@ Here are some ideas to get you started:
 2. [可匿名注册的论坛版块](https://be4.herokuapp.com/category/10/)
 3. 电邮 <chinatimeline@protonmail.com>
 
-## 致谢
-1. Jekyll代码改编自: [达摩俱乐部](https://github.com/DamoresClub/DamoresClub.github.io)
-2. Logo[来源](https://www.flaticon.com/free-icon/timeline_1853230) Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com)
-3. 新闻提交模块来自 Staticman V3: https://github.com/VincentTam/TestStaticmanLab
-4. CSS样式设计: https://www.w3schools.com/css/css_rwd_intro.asp
-5. 网页插件
-   - 分享按钮: https://sharingbuttons.io/
-   - 回到顶部: https://github.com/vfeskov/vanilla-back-to-top
-6. 表单提交: [duty-machine/chinatimeline-form](https://github.com/duty-machine/chinatimeline-form)
-
 ## 其它类似项目
 1. 端点星 https://github.com/terminus2049/terminus2049.github.io
 2. duty-machine https://github.com/duty-machine/duty-machine 
