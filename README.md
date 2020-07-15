@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 网站 | [![Latest GitHub commit](https://img.shields.io/github/last-commit/chinatimeline/chinatimeline.github.io)](https://github.com/chinatimeline/chinatimeline.github.io) | [![GitHub stars](https://img.shields.io/github/stars/chinatimeline/chinatimeline.github.io)](https://github.com/chinatimeline/chinatimeline.github.io/stargazers)
 数据 |[![Latest GitHub commit](https://img.shields.io/github/last-commit/chinatimeline/data)](https://github.com/chinatimeline/data) | [![GitHub stars](https://img.shields.io/github/stars/chinatimeline/data)](https://github.com/chinatimeline/data/stargazers)
 
-如何利用[Gitlab](https://gitlab.com)对本项目进行自动备份：请见[这里](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html)。參與時請務必參考[Git匿名安全](https://gist.github.com/chinatimeline/5386a4f9d82483aa5346b17d8d324877)中的方法進行自我檢查。
+Tips:
+- 如何利用[Gitlab](https://gitlab.com)对本项目进行自动备份：请见[这里](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html)。
+- 參與時請務必參考[Git匿名安全](https://gist.github.com/chinatimeline/5386a4f9d82483aa5346b17d8d324877)中的方法進行自我檢查。
 
 
 ## 贡献者
